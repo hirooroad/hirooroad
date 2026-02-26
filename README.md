@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,docker" />
+<br>
 <!--
 **hirooroad/hirooroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
